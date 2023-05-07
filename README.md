@@ -19,7 +19,7 @@ JVM:          17.0.7 (Homebrew 17.0.7+0)
 OS:           Mac OS X 13.3.1 aarch64
 
 ## IDE : IntelliJ Idea
-![idea_env.png](img%2Fidea_env.png)
+![idea-version.png](img%2Fidea-version.png)
 
 ## Project Env.
-![idea-version.png](img%2Fidea-version.png)
+![idea_env.png](img%2Fidea_env.png)
