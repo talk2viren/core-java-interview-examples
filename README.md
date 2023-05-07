@@ -1,9 +1,3 @@
-## My local env in laptop.
-## IDE : IntelliJ Idea
-![idea_env.png](img%2Fidea_env.png)![idea-version.png](..%2F..%2F..%2F..%2F..%2Fimg%2Fidea-version.png)![idea-version.png](img%2Fidea-version.png)
-## Project Env.
-![idea_env.png](img%2Fidea_env.png)
-
 ## Operating System,Java & Gradle Version
 virendra@virendras-MacBook-Pro compare % java --version
 openjdk 20.0.1 2023-04-18
@@ -23,3 +17,9 @@ Groovy:       3.0.13
 Ant:          Apache Ant(TM) version 1.10.11 compiled on July 10 2021
 JVM:          17.0.7 (Homebrew 17.0.7+0)
 OS:           Mac OS X 13.3.1 aarch64
+
+## IDE : IntelliJ Idea
+![idea_env.png](img%2Fidea_env.png)
+
+## Project Env.
+![idea-version.png](img%2Fidea-version.png)
