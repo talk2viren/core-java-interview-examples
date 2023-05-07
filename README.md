@@ -1,9 +1,10 @@
 ## Operating System,Java & Gradle Version
-virendra@virendras-MacBook-Pro compare % java --version
+# java --version
 openjdk 20.0.1 2023-04-18
 OpenJDK Runtime Environment (build 20.0.1+9-29)
 OpenJDK 64-Bit Server VM (build 20.0.1+9-29, mixed mode, sharing)
-virendra@virendras-MacBook-Pro compare % gradle --version
+
+# gradle --version
 
 ------------------------------------------------------------
 Gradle 7.6.1
